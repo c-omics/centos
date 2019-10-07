@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM centos:7
 MAINTAINER Ian Merrick <MerrickI@Cardiff.ac.uk>
 
 ##############################################################
